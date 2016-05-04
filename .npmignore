@@ -1,6 +1,6 @@
 examples/*
 !examples/js/
-src/
+!src/
 test/
 utils/
 docs/
